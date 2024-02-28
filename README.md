@@ -4,3 +4,5 @@ L'objectif est de tester la connexion avec GitHub, et d'opérer des changements 
 Après un premier commit, je peux tester un second commit.
 
 Contre toute attente, ça marche. Et peut-être même à la fois du local vers le distant, mais également du distant vers le local!
+
+# ouais mais on t'a aidé un peu quand même
